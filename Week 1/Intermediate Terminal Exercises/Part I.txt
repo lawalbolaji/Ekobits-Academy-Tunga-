@@ -1,0 +1,25 @@
+1. The PATH variables is an environment variable specifying a set of directories where executable programs are located.
+
+2. To allow users access certain paths and directories without typing full path address.
+
+3. Use the export command in a bash_profile file
+
+4. A process is a program that is currently being executed.
+
+5. ps aux
+
+6. PID is the ID of the process
+
+7. Use the kill or kill -9 command
+
+8. kill -9 always works
+
+9. -i for case insensitive search
+
+10. -B 
+
+11. -A 
+
+12. -w
+
+13. -n
