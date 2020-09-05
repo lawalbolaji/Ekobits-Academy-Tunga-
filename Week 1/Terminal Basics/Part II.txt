@@ -1,0 +1,25 @@
+1. man command displays the manual for the command passed as an argument. 
+   I use the mouse wheel to scroll.
+   Press q to get out
+
+2. the -l flag lists the files in long format
+   the -a flag lists all files in the directory including hidden files
+
+6. (alt+b | alt+f) or (esc+b | esc+f) - Mac, to jump between words. 
+
+7. ctrl+e to move to the end of line
+
+8. ctrl+a to move to beginning of line
+
+9. ctrl+w to delete from cursor to beginning of word
+
+10. A shell is a process, a terminal runs a shell.
+
+11. Absolute path specifies the path address relative to the root folder
+
+12. Relative path specifies path address relative to the current directory.
+
+13. Flags influence or modify the default behaviour of commands
+    Examples (-l -a) for ls command & (-r) for cp command
+
+14. -f removes files without confirmation, -r removes all file hierarchy.
